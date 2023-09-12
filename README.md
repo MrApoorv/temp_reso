@@ -1,2 +1,2 @@
-# temp_reso
+# temp_repo
 learning MERN 
